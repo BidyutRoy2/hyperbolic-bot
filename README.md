@@ -2,7 +2,7 @@
 
 A feature-rich Telegram bot integrating Hyperbolic.xyz's AI models for text generation, image creation, and audio synthesis.
 
-- **Bot Link** : https://t.me/Hyperbolic25_Bot
+- **Bot Link** : 
 
 ## 📚 Features
 - **Multi-Model Support**:
